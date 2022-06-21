@@ -9,5 +9,4 @@ public class OnlineGradebookApplication {
     public static void main(String[] args) {
         SpringApplication.run(OnlineGradebookApplication.class, args);
     }
-
 }
